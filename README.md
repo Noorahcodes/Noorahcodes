@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Noorahcodes
-- 👀 I’m interested in Software Dev
-- 🌱 I’m currently learning qt/qml
+- 👋 Hi, I’m @Noorahcodes.
+- 👀 Looking on to Cyber Security Area.
+- 🌱 I’m currently learning DevOps.
 - 📫 How to reach me noora124@gmail.com
 
 <!---
